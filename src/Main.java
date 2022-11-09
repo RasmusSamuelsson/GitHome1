@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("Välkommen hem!");
         System.out.println("Rad 1");
+        System.out.println("Rad 1 clone");
     }
 }
